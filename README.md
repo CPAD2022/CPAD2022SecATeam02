@@ -1,6 +1,4 @@
-# CPAD2022SecATeam02
-CPAD2022SecATeam02
-Team - Bug Squashers
+#Team 2 - Bug Squashers
 
 ## PROJECT IDEA - SHAPE UP
 - An interactive application which provides daily workout routines based on your individual needs and this app is for those who want to start a new active lifestyle, build healthy habits and feel amazing 
